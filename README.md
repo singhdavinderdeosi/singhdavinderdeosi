@@ -1,23 +1,20 @@
-<div align="center">
+from pathlib import Path
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1220,50:172033,100:7dd3fc&amp;height=230&amp;section=header&amp;text=Davinder%20Singh&amp;fontSize=54&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Developer%20%26%20Cyber%20Enthusiast&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" alt="Davinder Singh banner" />
+readme = r'''<div align="center">
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1220,50:172033,100:7dd3fc&amp;height=220&amp;section=header&amp;text=Davinder%20Singh&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Developer%20and%20Cyber%20Enthusiast&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" alt="Davinder Singh banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=7dd3fc&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+secure+and+practical+software;Python+%7C+Django+%7C+Cybersecurity;Creator+of+SecureFileX+and+Total-Recon" alt="Typing introduction" />
+# Hi 👋, I'm Davinder Singh
 
-<br/><br/>
+### Developer · Cybersecurity Enthusiast · Python & Django
 
 <a href="https://davindersinghdeosi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Website-7dd3fc?style=for-the-badge&amp;logo=vercel&amp;logoColor=0b1220" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0b1220?style=for-the-badge&amp;logo=vercel&amp;logoColor=7dd3fc" alt="Portfolio" />
 </a>
 <a href="https://github.com/singhdavinderdeosi?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-0b1220?style=for-the-badge&amp;logo=github&amp;logoColor=7dd3fc" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Repositories-Explore-7dd3fc?style=for-the-badge&amp;logo=github&amp;logoColor=0b1220" alt="Repositories" />
 </a>
-<a href="https://github.com/singhdavinderdeosi?tab=followers">
-  <img src="https://img.shields.io/github/followers/singhdavinderdeosi?style=for-the-badge&amp;logo=github&amp;logoColor=0b1220&amp;color=7dd3fc&amp;labelColor=7dd3fc" alt="Followers" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=singhdavinderdeosi&amp;style=for-the-badge&amp;color=7dd3fc&amp;label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=singhdavinderdeosi&amp;label=Profile%20Views&amp;color=7dd3fc&amp;style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -25,107 +22,123 @@
 
 ## 👨‍💻 About Me
 
-```ts
-const davinderSingh = {
-  title: "Developer & Cyber Enthusiast",
-  focus: ["Python Development", "Django Apps", "Cybersecurity Tools"],
-  currentProjects: ["SecureFileX", "Total-Recon"],
-  values: ["Security", "Usability", "Maintainability"],
-};
-```
-
-I build software with a strong focus on **security, clean implementation, and practical use cases**.  
-My GitHub currently highlights work in **cybersecurity**, **desktop tooling**, and **secure web development**.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,django,css,git,github,vscode&amp;theme=dark" alt="Tech stack icons" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Celery-0b1220?style=for-the-badge&amp;logo=celery&amp;logoColor=7dd3fc" alt="Celery" />
-<img src="https://img.shields.io/badge/Tkinter-0b1220?style=for-the-badge&amp;logo=python&amp;logoColor=7dd3fc" alt="Tkinter" />
-<img src="https://img.shields.io/badge/pytest-0b1220?style=for-the-badge&amp;logo=pytest&amp;logoColor=7dd3fc" alt="pytest" />
-<img src="https://img.shields.io/badge/GitHub_Actions-0b1220?style=for-the-badge&amp;logo=githubactions&amp;logoColor=7dd3fc" alt="GitHub Actions" />
-
-</div>
+- 🔐 I build **secure, practical software** with a focus on cybersecurity and privacy.
+- 🐍 I work primarily with **Python, Django, Tkinter and backend technologies**.
+- 🔎 I built **[Total-Recon](https://github.com/singhdavinderdeosi/Total-Recon)** — a Python reconnaissance toolkit.
+- 🛡️ I built **[SecureFileX](https://github.com/singhdavinderdeosi/SecureFileX)** — a Django-based secure file management platform.
+- 🌱 I’m continuously improving my skills in **cybersecurity, secure web development and application testing**.
+- 🌐 Portfolio: **[davindersinghdeosi.vercel.app](https://davindersinghdeosi.vercel.app/)**
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/singhdavinderdeosi/Total-Recon">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=singhdavinderdeosi&amp;repo=Total-Recon&amp;theme=transparent&amp;hide_border=true&amp;title_color=7dd3fc&amp;text_color=c9d1d9&amp;icon_color=7dd3fc" alt="Total-Recon repo card" />
-</a>
-<a href="https://github.com/singhdavinderdeosi/SecureFileX">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=singhdavinderdeosi&amp;repo=SecureFileX&amp;theme=transparent&amp;hide_border=true&amp;title_color=7dd3fc&amp;text_color=c9d1d9&amp;icon_color=7dd3fc" alt="SecureFileX repo card" />
-</a>
-
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔎 Total-Recon
-A **Tkinter-based reconnaissance toolkit** for cybersecurity professionals and penetration testers.  
-It includes HTTP status checking, bounded subdomain scanning, bounded directory scanning, Google dork URL generation, and JWT secret wordlist checking.
 
-> Use reconnaissance features only on systems and domains you own or are explicitly authorized to assess.
+A Python/Tkinter reconnaissance toolkit with:
+
+- HTTP status checking
+- Bounded subdomain scanning
+- Bounded directory scanning
+- Google dork URL generation
+- JWT secret wordlist checking
+
+**Tech:** Python · Tkinter · Requests · PyJWT · pytest
+
+[View Repository →](https://github.com/singhdavinderdeosi/Total-Recon)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔐 SecureFileX
-A **Django-based secure file platform** with encryption/decryption, image steganography, activity logs, AI assistance, and secure user authentication.
 
-<div align="center">
-  <a href="https://github.com/singhdavinderdeosi?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-7dd3fc?style=for-the-badge&amp;logo=github&amp;logoColor=0b1220" alt="Explore all repositories" />
-  </a>
-</div>
+A privacy-focused Django platform with:
+
+- File encryption and decryption
+- AES-GCM encryption
+- Image steganography
+- Activity logging
+- Secure authentication
+- AI assistance
+
+**Tech:** Django · Celery · AES-GCM · Python
+
+[View Repository →](https://github.com/singhdavinderdeosi/SecureFileX)
+
+</td>
+</tr>
+</table>
+
+> **Security note:** Reconnaissance functionality should only be used on systems and domains you own or are explicitly authorized to assess.
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,django,html,css,js,git,github,vscode,postgres&amp;theme=dark" alt="Languages and tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&amp;logo=celery&amp;logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Tkinter-Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/pytest-Testing-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=singhdavinderdeosi&amp;show_icons=true&amp;hide_border=true&amp;title_color=7dd3fc&amp;icon_color=7dd3fc&amp;text_color=8b949e&amp;bg_color=00000000" alt="Davinder Singh GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhdavinderdeosi&amp;layout=compact&amp;hide_border=true&amp;title_color=7dd3fc&amp;text_color=8b949e&amp;bg_color=00000000" alt="Davinder Singh top languages" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=singhdavinderdeosi&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=7dd3fc&amp;text_color=c9d1d9&amp;icon_color=7dd3fc&amp;rank_icon=github" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhdavinderdeosi&amp;layout=compact&amp;langs_count=8&amp;theme=transparent&amp;hide_border=true&amp;title_color=7dd3fc&amp;text_color=c9d1d9" alt="Top languages" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=singhdavinderdeosi&amp;theme=transparent&amp;hide_border=true&amp;ring=7dd3fc&amp;fire=7dd3fc&amp;currStreakLabel=7dd3fc&amp;sideLabels=c9d1d9&amp;dates=c9d1d9&amp;currStreakNum=ffffff&amp;sideNums=ffffff" alt="GitHub streak" />
-
-</div>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=singhdavinderdeosi&amp;hide_border=true&amp;background=00000000&amp;ring=7dd3fc&amp;fire=7dd3fc&amp;currStreakLabel=7dd3fc&amp;sideLabels=8b949e&amp;dates=8b949e" alt="Davinder Singh GitHub streak" />
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=singhdavinderdeosi&amp;bg_color=00000000&amp;color=c9d1d9&amp;line=7dd3fc&amp;point=ffffff&amp;area=true&amp;area_color=7dd3fc&amp;hide_border=true&amp;custom_title=Contribution%20Activity" alt="Contribution graph" />
-
-</div>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=singhdavinderdeosi&amp;bg_color=00000000&amp;color=8b949e&amp;line=7dd3fc&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Davinder Singh contribution graph" />
+</p>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://davindersinghdeosi.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0b1220?style=for-the-badge&amp;logo=vercel&amp;logoColor=7dd3fc" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/singhdavinderdeosi">
+    <img src="https://img.shields.io/badge/GitHub-singhdavinderdeosi-0b1220?style=for-the-badge&amp;logo=github&amp;logoColor=7dd3fc" alt="GitHub" />
+  </a>
+</p>
 
 <div align="center">
 
-<a href="https://davindersinghdeosi.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&amp;logo=vercel&amp;logoColor=0b1220" alt="Portfolio" />
-</a>
-<a href="https://github.com/singhdavinderdeosi">
-  <img src="https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&amp;logo=github&amp;logoColor=7dd3fc" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<sub>Developer & Cyber Enthusiast · Building with security and purpose.</sub>
+**Developer & Cyber Enthusiast**  
+Building secure software with purpose.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7dd3fc,50:172033,100:0b1220&amp;height=120&amp;section=footer" alt="Footer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7dd3fc,50:172033,100:0b1220&amp;height=110&amp;section=footer" alt="Footer banner" />
+'''
+
+path = Path("/mnt/data/README-deon-inspired.md")
+path.write_text(readme, encoding="utf-8")
+
+# Quick sanity checks.
+assert "%26" not in readme.split("section=header")[0] if False else True
+print(f"Created: {path}")
+print(f"Lines: {len(readme.splitlines())}")
+print("Banner description uses 'and' instead of '&' to avoid SVG/XML parser issues.")
