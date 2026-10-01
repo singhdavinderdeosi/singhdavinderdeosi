@@ -36,7 +36,7 @@ const davinder = {
 
 I build **secure, practical and maintainable software** with a strong interest in cybersecurity, backend engineering and modern web development.
 
-- 🔐 Security-focused development and application testing
+- 🔐 Security-focused development 
 - 🐍 Python and Django for backend systems
 - 🧰 Practical tools that solve real problems
 - 🚀 Continuous learning through hands-on projects
