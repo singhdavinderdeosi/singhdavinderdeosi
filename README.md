@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1220,50:172033,100:7dd3fc&amp;height=220&amp;section=header&amp;text=Davinder%20Singh&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Developer%20and%20Cyber%20Enthusiast&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" alt="Davinder Singh banner" />
 
@@ -132,13 +130,3 @@ Building secure software with purpose.
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7dd3fc,50:172033,100:0b1220&amp;height=110&amp;section=footer" alt="Footer banner" />
-'''
-
-path = Path("/mnt/data/README-deon-inspired.md")
-path.write_text(readme, encoding="utf-8")
-
-# Quick sanity checks.
-assert "%26" not in readme.split("section=header")[0] if False else True
-print(f"Created: {path}")
-print(f"Lines: {len(readme.splitlines())}")
-print("Banner description uses 'and' instead of '&' to avoid SVG/XML parser issues.")
